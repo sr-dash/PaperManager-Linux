@@ -8,7 +8,6 @@ Type the following command in a local terminal for installing the app.
 ```
 git clone https://github.com/sr-dash/PaperManager-Linux.git
 cd PaperManager-Linux
-wget https://github.com/sr-dash/PaperManager-Linux/releases/download/v1.0.0/PaperManager_deb.deb
 sudo dpkg -i PaperManager_deb.deb
 ```
 
