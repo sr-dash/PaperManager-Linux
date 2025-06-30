@@ -11,7 +11,7 @@ cd PaperManager-Linux
 sudo dpkg -i PaperManager_deb.deb
 ```
 Here is a sample screenshot of the UI within aa Ubuntu installation.
-![App_Preview](Sample_UI-1.png)
+![App_Preview](Sample_UI.png)
 
 The app creates local directories for storing the pdf file sof the papers and related tags (database).
 
