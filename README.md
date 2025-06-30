@@ -8,6 +8,16 @@ Type the following command in a local terminal for installing the app.
 ```
 git clone https://github.com/sr-dash/PaperManager-Linux.git
 cd PaperManager-Linux
+wget https://github.com/sr-dash/PaperManager-Linux/releases/download/v1.0.0/PaperManager_deb.deb
+sudo dpkg -i PaperManager_deb.deb
+```
+
+If there are any issues clonning the repository, you can try pulling the binary file from the release as,
+```
+https://github.com/sr-dash/PaperManager-Linux/releases/download/v1.0.0/PaperManager_deb.deb
+```
+and then install as 
+```
 sudo dpkg -i PaperManager_deb.deb
 ```
 Here is a sample screenshot of the UI within aa Ubuntu installation.
